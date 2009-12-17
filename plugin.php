@@ -42,7 +42,7 @@ function gopenid_options() {
 	<form name="form1" method="post" action="">
 	<input type="hidden" name="<?php echo 'updated'; ?>" value="True">
 	<p style="color:#A2A2A2;">It's time, my son.</p>
-	<p style="max-width: 660px;">To take advantage of Google Profile's fantastic OpenID on your blog, <br/> enter your <a href="https://www.google.com/accounts/ManageAccount" target="_none">Google Profile ID</a> below, and everything will feel just right. </p>
+	<p style="max-width: 660px;">To take advantage of Google Profile's fantastic OpenID on your blog, <br/> enter your <a href="http://www.google.com/profiles/me" target="_none">Google Profile ID</a> (last part of the URL) below, and everything will feel just right. </p>
 	
 	
 	<p class="setting"><strong><?php _e("Google Profile ID:", 'google_id' ); ?></strong> 
