@@ -45,7 +45,7 @@ function gopenid_options() {
 	<p style="max-width: 660px;">To take advantage of Google Profile's fantastic OpenID on your blog, <br/> enter your <a href="https://www.google.com/accounts/ManageAccount" target="_none">Google Profile ID</a> below, and everything will feel just right. </p>
 	
 	
-	<p class="setting"><strong><?php _e("Google Analytics ID:", 'google_id' ); ?></strong> 
+	<p class="setting"><strong><?php _e("Google Profile ID:", 'google_id' ); ?></strong> 
 		<input type="text" name="<?php echo 'googleid'; ?>" value="<?php echo get_option('googleid'); ?>" size="15">
 	</p>
 
