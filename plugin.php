@@ -1,7 +1,8 @@
 <?php
 
 /*
- Plugin Name: My Google OpenID 
+ Plugin Name: My Google OpenID
+ Plugin URI: http://github.com/kennethreitz/google-openid-wordpress-plugin
  Description: Adds your Google OpenID to a WordPress Wordpress site, allowing you to use that site as an OpenID provider. And it's all thanks to <a href="http://kennethreitz.com">Kenneth Reitz</a>!
  Author: Kenneth Reitz
  Author URI: http://kennethreitz.com
